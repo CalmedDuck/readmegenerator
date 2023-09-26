@@ -1,8 +1,8 @@
 
-# Professional ReadMe Generator 
+# README Generator 
 
 ## Description
-This project creates custom readmes for new projects by using node.js.
+Generator that creates professional READMES for your new project.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,24 +11,27 @@ This project creates custom readmes for new projects by using node.js.
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Video Link](https://drive.google.com/file/d/1kCL1mTvHsanBX8dhXrvMKkxnhqkx4vL8/view)
+
 
 ## Installation
-To install you will need all necessary packages and modules including inquirer. Make sure to run npm install. To run the index.js file type node index in your terminal in the directory where the files are.
+Make sure you have node.js installed. Make sure all dependencies that are required are also installed by running npm install or npm i.
 
 ## Usage
-Answer the prompts accordingly to create your professional readme. The readme should be located in the directory that you ran the node index command.
+When all of the following have been installed navigate to the project directory and open in an integrated terminal and run node index. Answer the following prompts related to your project.
 
 ## License
 This project is not licensed.
 
 ## Contributing
-Any push requests must be reviwed and approved before being merged. All feature branches should be named accordingly and all commits should be descriptive.
+All push requests must be approved and looked over. All feature branches should be named accordingly and all commits should be descriptive of any changes.
 
 ## Tests
-Make sure you have node.js installed. Run node index.js to verify. Confirm the readme that is generated matches what you answered. Links should navigate to the different sections of the readme.
+Make sure README file that is generated matches up with prompt answers. Make sure Node.JS is installed. Make sure the links in the README redirect to different sections of the page.
 
 ## Questions
 For any additional questions, please reach out to me on:
 - [GitHub](https://github.com/CalmedDuck)
 - Email: b.williams54255@gmail.com
-    
+
+
